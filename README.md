@@ -26,4 +26,4 @@
        C=30
        print(a,b,c)
    '''
-***Good***
+*Good*
